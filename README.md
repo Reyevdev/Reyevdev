@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Reyevdev/Reyevdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Reyev
 
-Here are some ideas to get you started:
+Java Developer • Minecraft Plugin Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Reyevdev&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyevdev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,git,github,idea,vscode"/>
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Reyevdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyevdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Reyevdev&style=for-the-badge&color=orange"/>
+</p>
